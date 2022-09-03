@@ -2,7 +2,7 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/ "https://syknapse.github.io/Syk-Houdeib") || [For my learning log click here](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
+[For my full portfolio click here](https:// "https://") || [For my learning log click here](https://github.com/mactonite123/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
 
 ----
 
@@ -12,22 +12,22 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -49,16 +49,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
+| ![Completed][Completed]     |          | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
+| ![Completed][Completed]     |          | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
+| ![Completed][Completed]     |          | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     |          | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
+| ![Completed][Completed]     |          | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     |          | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     |          | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
+| ![Completed][Completed]     |          | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
+| ![Completed][Completed]     |          | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
+| ![Completed][Completed]     |          | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
 | ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
 | ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
